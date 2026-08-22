@@ -35,8 +35,8 @@ Human Operator
 2. AI answers the call.
 3. AI talks to the caller.
 4. AI decides to transfer.
-5. ECSS sends SIP REFER.
-6. Call is transferred to the operator.
+5. A SIP REFER is used to request the transfer through the ECSS integration.
+6. The transfer target receives the call.
 7. AI leaves the call.
 
 ---
@@ -61,10 +61,10 @@ Human Operator
 
 | File | Description |
 |------|-------------|
-| Refer.png | SIP REFER configuration |
-| Subscriber.png | ECSS subscriber configuration |
-| history call.png | Successful transferred call |
-| vapi-transfer1.pcap | Wireshark capture of the transfer |
+| [Refer.png](screenshots/Refer.png) | Sanitized SIP REFER configuration |
+| [Subscriber.png](screenshots/Subscriber.png) | Sanitized ECSS subscriber configuration |
+| [history call.png](screenshots/history%20call.png) | Successful transferred call |
+| [vapi-transfer1.pcap](captures/vapi-transfer1.pcap) | Wireshark capture of the transfer |
 
 ---
 

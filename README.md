@@ -1,11 +1,20 @@
 # Voice Integration Projects
 
-Production-ready Voice & AI integration examples.
+Production-style Voice and AI integration projects, plus sanitized troubleshooting
+cases based on real engineering work.
 
-## Projects
+## Integration Projects
 
-- 01 Vapi → ECSS SIP Call Transfer ✅
-- 02 OpenAI Realtime SIP Gateway (coming soon)
-- 03 AI Voice Translator (coming soon)
-- 04 FreeSWITCH AI Conference (coming soon)
-- 05 Kamailio AI Routing (coming soon)
+- [Vapi to ECSS SIP Call Transfer](projects/01-vapi-ecss-sip-transfer/README.md)
+
+## Production Troubleshooting Cases
+
+- [ECSS-10 Multi-Domain Registration: 401 Unauthorized](production-cases/01-ecss10-multi-domain-registration/README.md)
+- [SMG-500 and TAU-32 Conference Investigation](production-cases/02-smg500-tau32-conference/README.md)
+- [SIP re-INVITE: Hold and Resume](production-cases/03-sip-reinvite-hold/README.md)
+
+## Publication Policy
+
+The examples focus on architecture, troubleshooting method and lessons learned.
+Customer identifiers, credentials, phone numbers, private addresses and proprietary
+configuration are excluded.
