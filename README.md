@@ -25,6 +25,7 @@ work. The emphasis is on the problem, evidence, engineering decision and validat
 ## Voice AI Integration
 
 - [Vapi to ECSS SIP Call Transfer](projects/01-vapi-ecss-sip-transfer/README.md) — SIP registration, AI call handling and trace-based transfer validation
+- [Dynamic AI/Human Call Routing with FreePBX and Asterisk](projects/02-freepbx-ai-human-routing/README.md) — queue-wide mode switching with PBX-owned routing
 - Related engineering notes: [AI Voice Lab](https://github.com/nikita-voip/ai-voice-lab)
 
 ## Related Repositories
