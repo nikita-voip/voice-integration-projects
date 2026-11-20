@@ -22,6 +22,10 @@ work. The emphasis is on the problem, evidence, engineering decision and validat
 
 - [ECSS-10 3.18 Deployment and PostgreSQL Recovery](production-cases/08-ecss10-deployment-postgresql-recovery/README.md)
 
+## Telephony and Business-System Integration
+
+- [Eltex Integration Gateway](projects/03-eltex-integration-gateway/README.md) — ECSS-10 event correlation, persistent outbox, CDR resolution and recording delivery; Production Pilot / Active Development
+
 ## Voice AI Integration
 
 - [Vapi to ECSS SIP Call Transfer](projects/01-vapi-ecss-sip-transfer/README.md) — SIP registration, AI call handling and trace-based transfer validation
